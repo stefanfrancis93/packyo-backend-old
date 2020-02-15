@@ -12,28 +12,24 @@
       "commons": 0,
       "static/runtime/webpack.js": 1,
       "framework": 2,
-      "66cb717bd557a78e52190d666e7a65531ea9fb87": 3,
-      "static/FCMNyS3KC6Z_nS5d3o7Z8/pages/_app.js": 4,
-      "static/FCMNyS3KC6Z_nS5d3o7Z8/pages/_error.js": 5,
-      "static/FCMNyS3KC6Z_nS5d3o7Z8/pages/index.js": 6,
+      "313e6a498c6e669daeeeb462ea345a6aa3dd1276": 3,
+      "static/Vk2Rz6-xPXTXwZ07jfjSM/pages/_app.js": 4,
+      "static/Vk2Rz6-xPXTXwZ07jfjSM/pages/_error.js": 5,
+      "static/Vk2Rz6-xPXTXwZ07jfjSM/pages/index.js": 6,
       "static/runtime/main.js": 7,
-      "static/runtime/polyfills.js": 8,
-      "5f425ac5b9b101179cb4abed9ec67e5bdaee08cd": 9,
-      "static/dq0Mh8zmx4bEVri4ak7xM/pages/_app.js": 10,
-      "static/dq0Mh8zmx4bEVri4ak7xM/pages/_error.js": 11,
-      "static/dq0Mh8zmx4bEVri4ak7xM/pages/index.js": 12
+      "static/runtime/polyfills.js": 8
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      10,
-      11,
-      12,
       2,
+      3,
+      4,
+      5,
+      6,
       7,
-      8,
-      9
+      8
     ]
   }
 }

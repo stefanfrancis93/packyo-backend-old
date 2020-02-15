@@ -17,23 +17,19 @@
     "byName": {
       "init-server.js": 0,
       "on-error-server.js": 1,
-      "static/FCMNyS3KC6Z_nS5d3o7Z8/pages/_app.js": 2,
-      "static/FCMNyS3KC6Z_nS5d3o7Z8/pages/_document.js": 3,
-      "static/FCMNyS3KC6Z_nS5d3o7Z8/pages/_error.js": 4,
-      "static/FCMNyS3KC6Z_nS5d3o7Z8/pages/index.js": 5,
-      "static/dq0Mh8zmx4bEVri4ak7xM/pages/_app.js": 6,
-      "static/dq0Mh8zmx4bEVri4ak7xM/pages/_document.js": 7,
-      "static/dq0Mh8zmx4bEVri4ak7xM/pages/_error.js": 8,
-      "static/dq0Mh8zmx4bEVri4ak7xM/pages/index.js": 9
+      "static/Vk2Rz6-xPXTXwZ07jfjSM/pages/_app.js": 2,
+      "static/Vk2Rz6-xPXTXwZ07jfjSM/pages/_document.js": 3,
+      "static/Vk2Rz6-xPXTXwZ07jfjSM/pages/_error.js": 4,
+      "static/Vk2Rz6-xPXTXwZ07jfjSM/pages/index.js": 5
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      6,
-      7,
-      8,
-      9
+      2,
+      3,
+      4,
+      5
     ]
   }
 }
