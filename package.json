@@ -1,10 +1,15 @@
 {
+  "homepage": "git@github.com:stefanfrancis93/packyo-backend.git",
   "name": "pakyo-backend",
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "next build",
     "start": "node .",
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "prod": "next export"
   },
   "keywords": [],
   "author": "",
@@ -37,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "nodemon": "^2.0.2"
   }
 }
