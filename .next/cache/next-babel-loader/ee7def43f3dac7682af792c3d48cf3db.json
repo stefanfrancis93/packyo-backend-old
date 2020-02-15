@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const baseURl = 'http://localhost:3000/api';","map":{"version":3,"sources":["/Users/stefanfrancis/Personal/work/pakyo-backend/config/index.js"],"names":["baseURl"],"mappings":"AAAA,OAAO,MAAMA,OAAO,GAAG,2BAAhB","sourcesContent":["export const baseURl = 'http://localhost:3000/api';"]},"metadata":{},"sourceType":"module"}

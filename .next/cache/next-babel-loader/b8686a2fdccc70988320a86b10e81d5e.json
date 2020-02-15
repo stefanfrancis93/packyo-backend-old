@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  baseURl: 'http://localhost:3000/api'\n};","map":{"version":3,"sources":["/Users/stefanfrancis/Personal/work/pakyo-backend/config/index.js"],"names":["baseURl"],"mappings":"AAAA,eAAe;AACXA,EAAAA,OAAO,EAAE;AADE,CAAf","sourcesContent":["export default {\n    baseURl: 'http://localhost:3000/api'\n}"]},"metadata":{},"sourceType":"module"}
